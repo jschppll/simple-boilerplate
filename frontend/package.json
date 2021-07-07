@@ -18,10 +18,12 @@
   },
   "homepage": "https://github.com/jschppll/simple-boilerplate#readme",
   "devDependencies": {
+    "@parcel/transformer-sass": "^2.0.0-beta.2",
     "@typescript-eslint/eslint-plugin": "^4.28.2",
     "@typescript-eslint/parser": "^4.28.2",
     "eslint": "^7.30.0",
     "parcel": "^2.0.0-beta.2",
+    "sass": "^1.35.1",
     "typescript": "^4.3.5"
   },
   "dependencies": {
